@@ -1,2 +1,14 @@
-# beagy-szakirany-guide
-Egy kis útmutató az OE-NIK beágy szakirányra indulóknak
+# Beágy Szakirány Guide <!-- omit in toc -->
+
+# Tartalom <!-- omit in toc -->
+
+- [Leírás](#leírás)
+- [Többi címsor mittudomén](#többi-címsor-mittudomén)
+
+# Leírás
+
+Miért csináltam ezt a doksit?
+
+# Többi címsor mittudomén
+
+Többi tartalom mittudomén
