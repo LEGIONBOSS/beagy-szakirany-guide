@@ -48,7 +48,7 @@ void loop()
 
 Ez elsőre jónak tűnik, és ilyen kis példa esetén még használható is.
 
-![](img/delay1.png)
+![](../img/delay1.png)
 
 De van ezzel két probléma is.
 
@@ -56,7 +56,7 @@ De van ezzel két probléma is.
 
 2. Ha figyelembe vesszük az egyes metódusok lefutási idejét (amit eddig figyelmen kívül hagytunk), akkor észrevehetjük, hogy a metódushívások között több idő telik el, mint szeretnénk.
 
-![](img/delay2.png)
+![](../img/delay2.png)
 
 ---
 ## A `millis` módszer
