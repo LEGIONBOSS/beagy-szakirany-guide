@@ -18,7 +18,6 @@ Ennek a megvalósítására három elterjedtebb módszer (professzionalitás sze
 2. A `millis` módszer
 3. Az `interrupt` módszer
 
----
 ## A `delay` módszer
 
 Az Arduino keretrendszer beépített metódusai a `delay()` és a `delayMicroseconds()`, amelyek arra valóak, hogy a program futását megállítsuk egy adott mennyiségű mili- vagy mikroszekundum erejéig.
@@ -58,13 +57,10 @@ De van ezzel két probléma is.
 
 ![](../img/delay2.png)
 
----
 ## A `millis` módszer
 
----
 ## Az `interrupt` módszer
 
----
 ## Hivatkozások
 
 Arduino `delay()` - https://www.arduino.cc/reference/en/language/functions/time/delay/
